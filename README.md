@@ -3,8 +3,9 @@
 Developed an interactive Customer Sales Analysis Dashboard to monitor and analyze sales performance, customer trends, profitability, and regional business growth. The dashboard provides a clear visualization of key business metrics and helps in data-driven decision-making.
 
 ## Dataset
-[Download Dataset](
+[Download Dataset](https://github.com/taniya528/Customer-Sales-Analysis-Dashboard-/blob/main/Tableau%201st%20Project.twbx)
 
+[Download ExcelFile](https://github.com/taniya528/Customer-Sales-Analysis-Dashboard-/blob/main/global_customer_analysis_data.xlsx)
 ## Key Features
 
 KPI tracking (Sales, Profit, Customers, Quantity, Sales)
