@@ -9,16 +9,25 @@ KPI tracking (Sales, Profit, Customers, Quantity, Sales)
 Month-over-Month Sales Analysis
 
 Region & Country-wise Sales Insights
+
 Product Sub-Category Performance
+
 Profit Analysis by Ship Mode
+
 Interactive Filters & Visualizations
 
 ## Tools Used
+
 Microsoft Excel / Tableau
+
 Pivot Tables & Charts
+
 Data Cleaning
+
 Data Visualization
+
 Dashboard Design
+
 
 ## Outcome
 Helped in identifying top-performing products, profitable regions, customer buying trends, and overall business growth through interactive reporting and visual analytics.
